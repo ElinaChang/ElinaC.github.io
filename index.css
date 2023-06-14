@@ -1,0 +1,10 @@
+.accordion-button::after 
+{
+    color: white;
+}
+
+ul li::marker 
+{
+    content: '✓';
+    color: grey;
+}
